@@ -4,7 +4,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/VanessaSwerts/NLW-Copa-Web">
 
-  <a href="https://github.com/alexanderaugusto/locus-app/commits/master">
+  <a href="https://github.com/VanessaSwerts/NLW-Copa-Server/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VanessaSwerts/NLW-Copa-Web">
   </a>
 
